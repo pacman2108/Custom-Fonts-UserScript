@@ -46,4 +46,5 @@ Released under the The KINDLY License. See [`LICENSE.md`](./LICENSE.md) file for
 
 ## Authors
 
-* [**Praveen Kumar Purushothaman**](https://github.com/praveenscience): Currently I am the only author of this script.
+* [**Praveen Kumar Purushothaman**](https://github.com/praveenscience): Author/Lead Developer
+* [**Pronoy Mukherjee**](https://github.com/pronoy2108): Co-Author
