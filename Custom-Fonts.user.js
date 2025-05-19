@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Custom Fonts (Fork of praveenscience/Custom-Fonts-Userscript)
-// @namespace    pronoy2108.vercel.app
-// @version      1.0
+// @namespace    about-pacman2108.vercel.app
+// @version      1.5
 // @description  Makes the UI of all the listed pages to have Segoe UI Variable as their default font.
-// @author       Pronoy Mukherjee
+// @author       Pac.
 // @match        http://stackoverflow.com/*
 // @match        https://stackoverflow.com/*
 // @match        http://*.stackexchange.com/*
@@ -24,7 +24,6 @@
 // @match        https://*www.healthline.com/*
 // @match        https://*www.toppr.com/*
 // @match        https://*.reverso.net/*
-// @match         https://www.tolearnfrench.com/*
 // @match         https://*open.spotify.com/*
 // @match         https://*reddit.com/*
 // @match        https://*www.toppr.com/*
